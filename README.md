@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alex</h1>
 <h3 align="center">"Career-Changing Full-Stack Web Developer | Former Bar Manager | Lifelong Learner"</h3>
 
-- 🌱 I’m currently learning **UX/UI Design, React and ML**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **iosifidisalex@gmail.com**
 

@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **iosifidisalex@gmail.com**
 
-- ⚡ Fun fact **I hate mayo but i love russian salad**
-
 <hr>
 
 <h3 align="left">Connect with me:</h3>
